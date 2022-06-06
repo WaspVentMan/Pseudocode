@@ -1,0 +1,16 @@
+{
+    "e": [
+        "unknown reason for error.",
+        "variable \"{}\" has not been defined.",
+        "non integer \"{}\" need to be wrapped in \"\" to become a string.",
+        "it was not clarified what you were trying to end.",
+        "\"{}\" is not a valid end.",
+        "checking to see if a string is greater/less than something is impossible.",
+        "wait only accepts numbers.",
+        "\"{}\" isn't a number."
+    ],
+    "w": [
+        "unknown reason for warning.",
+        "unnecessary end."
+    ]
+}

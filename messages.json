@@ -5,8 +5,8 @@
         "non integer \"{}\" need to be wrapped in \"\" to become a string.",
         "it was not clarified what you were trying to end.",
         "\"{}\" is not a valid end.",
-        "checking to see if a string is greater/less than something is impossible.",
-        "wait only accepts numbers.",
+        "checking to see if a string (\"{}\") is greater/less than something is impossible.",
+        "wait only accepts positive numbers, not \"{}\".",
         "\"{}\" isn't a number."
     ],
     "w": [
